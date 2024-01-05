@@ -1,2 +1,2 @@
 # netlifypw
-Persona; website to be hosted on netlify
+Personal website to be hosted on netlify
